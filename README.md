@@ -59,9 +59,11 @@ print(X)
 
 ## Output:
 (i)
+
 <img width="986" height="806" alt="Screenshot 2025-08-28 094328" src="https://github.com/user-attachments/assets/d92237d4-6dd4-4d4a-a200-e95d8759d574" />
 
 (ii)
+
 <img width="717" height="597" alt="Screenshot 2025-08-28 094313" src="https://github.com/user-attachments/assets/da3faac4-308a-401a-b4a2-9837a4f9c860" />
 
 
